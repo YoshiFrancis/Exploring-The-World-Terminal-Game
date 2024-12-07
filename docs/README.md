@@ -1,6 +1,6 @@
 ### Exploring the World
 
-Exploring the World is a terminal based game made in C++. The game will run fully in the terminal! 
+*Exploring the World* is a terminal based game made in C++. The game will run fully in the terminal! 
 
 ## Expectations
 
